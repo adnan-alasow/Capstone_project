@@ -94,4 +94,4 @@ https://www.thymeleaf.org/
 Credit goes to Instructor Ramesh Fadatare
 Software Engineer, Spring Certified, YouTuber and Instructor
 
-I followed his course on Udemy - Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App
+I followed Ramesh course on Udemy - Spring Boot 3 Thymeleaf REAL-TIME Web Application - Blog App
